@@ -20,6 +20,10 @@ https://www.google.com/search?q=How+to+integrate+AdminLTE+template+in++asp.net+w
 https://www.google.com/search?q=adminlte+admin+dashboard+template+with+web+form+c%23+code+example&oq=adminlte+admin+dashboard+template+with+web+form+C%23&gs_lcrp=EgZjaHJvbWUqBwgEECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCTE2MDIwajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8#ip=1
 
 1 de mayo 2024
+paRA EL SISTEMA DE VENDORS https://www.youtube.com/watch?v=1KKHL7JnF9E
+https://www.youtube.com/watch?v=buSimkHFYmw&t=42780s
+https://github.com/ammarmangala/employee-management-system
+Complete Employees Management System ASP.NET CORE 8.0, MS SQL Entity Framework Core 8.0
 https://github.com/judero01col/AdminLTE-ASP.NET-MVC
 checar este primero
 https://github.com/egarciagc/alela_project
@@ -38,6 +42,12 @@ https://www.youtube.com/watch?v=PodDKNZUoSM
 Make Charts with Asp.Net and Retrieve The Data from Database SQL Server.
 https://www.youtube.com/watch?v=E6mIWOjcQbs&t=191s
 https://www.youtube.com/watch?v=TMscLhRGpfE
+esta es para crear desde cero
+AdminLTE Integrar con Asp.Net Core
+https://www.youtube.com/watch?v=yfMC_RkvZ6o
+
+https://github.com/judero01col/AdminLTE-ASP.NET-MVC
+https://github.com/ammarmangala/employee-management-system
 4 9 
 20
 24
